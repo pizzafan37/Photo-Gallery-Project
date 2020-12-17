@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-let characters = ["https://static.wikia.nocookie.net/nintendo/images/d/d8/New_Super_Mario_Bros._U_Deluxe_-_Mario_01.png/revision/latest?cb=20181226204245&path-prefix=en", "https://vignette.wikia.nocookie.net/sonicpokemon/images/7/77/Pikachu.png/revision/latest?cb=20200831092023", "https://static.wikia.nocookie.net/sonic/images/2/2d/TSR_Sonic.png/revision/latest?cb=20191020043348"];
+let characters = ["https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png", "https://vignette.wikia.nocookie.net/sonicpokemon/images/7/77/Pikachu.png/revision/latest?cb=20200831092023", "https://static.hollywoodreporter.com/sites/default/files/2017/07/sonic-928x523.jpg"];
 
 var store;
 
